@@ -17,6 +17,7 @@ Some code conventions used here:
 
 import cgi
 
+from django.core.urlresolvers import reverse
 from django.shortcuts import render
 from djopenid import util
 from djopenid.util import getViewURL
@@ -96,7 +97,7 @@ def trustPage(request):
     return render(
         request,
         'server/trust.html',
-        {'trust_handler_url':getViewURL(request, processTrustResult)})
+        {'trust_handler_url':reverse('server:processTrustResult')})
 
 def endpoint(request):
     """
