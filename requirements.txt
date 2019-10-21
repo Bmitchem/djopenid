@@ -37,7 +37,7 @@ django-polymorphic==0.7.1
 django-storages==1.1.8
 djangorestframework==3.0.4
 duplicity==0.7.2
-ecdsa==0.13
+ecdsa==0.13.3
 enum34==1.0.4
 Fabric==1.10.0
 flower==0.8.3
