@@ -45,7 +45,7 @@ funcsigs==0.4
 futures==3.0.3
 gmpy==1.17
 html5lib==0.999
-httplib2==0.9
+httplib2==0.19.0
 idna==2.0
 iotop==0.6
 ipaddress==1.0.14
