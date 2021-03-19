@@ -51,7 +51,7 @@ iotop==0.6
 ipaddress==1.0.14
 ipython==2.3.0
 jdcal==1.0
-Jinja2==2.8
+Jinja2==2.11.3
 joblib==0.8.3
 kombu==3.0.26
 lockfile==0.10.2
