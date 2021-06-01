@@ -125,7 +125,7 @@ ubuntuone-client-data==14.4
 ujson==1.33
 Unidecode==0.4.17
 unity-lens-photos==1.0
-urllib3==1.11
+urllib3==1.26.5
 vboxapi==1.0
 virtualenv==13.1.2
 virtualenv-clone==0.2.6
