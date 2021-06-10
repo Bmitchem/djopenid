@@ -26,7 +26,7 @@ debtags==2.0
 decorator==4.0.2
 defer==1.0.6
 dirspec==13.10
-Django==1.8.1
+Django==2.2.24
 django-annoying==0.8.0
 django-haystack==2.4.0
 django-localflavor==1.1
