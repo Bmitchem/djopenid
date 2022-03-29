@@ -72,7 +72,7 @@ oneconf==0.3.8
 openpyxl==2.3.0b1
 PAM==0.4.2
 pandas==0.15.0
-paramiko==1.15.2
+paramiko==2.10.1
 patsy==0.4.0
 pbr==1.8.0
 pexpect==3.2
