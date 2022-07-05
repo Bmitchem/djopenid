@@ -122,7 +122,7 @@ tornado==4.2.1
 Twisted-Core==15.2.1
 Twisted-Web==15.2.1
 ubuntuone-client-data==14.4
-ujson==1.33
+ujson==5.4.0
 Unidecode==0.4.17
 unity-lens-photos==1.0
 urllib3==1.11
