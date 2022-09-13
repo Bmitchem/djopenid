@@ -40,7 +40,7 @@ duplicity==0.7.2
 ecdsa==0.13
 enum34==1.0.4
 Fabric==1.10.0
-flower==0.8.3
+flower==1.2.0
 funcsigs==0.4
 futures==3.0.3
 gmpy==1.17
